@@ -1,33 +1,46 @@
 {
   "recommendations": [
-    "antfu.theme-vitesse",
-    "antfu.where-am-i",
-    "bmewburn.vscode-intelephense-client",
-    "catppuccin.catppuccin-vsc-icons",
-    "christian-kohler.path-intellisense",
-    "davidanson.vscode-markdownlint",
-    "dbaeumer.vscode-eslint",
+    // Git & GitHub
+    "antfu.open-in-github-button",
+    "fabiospampinato.vscode-open-in-github",
     "eamodio.gitlens",
-    "editorconfig.editorconfig",
-    "esbenp.prettier-vscode",
-    "github.copilot",
-    "github.copilot-chat",
-    "github.vscode-github-actions",
-    "github.vscode-pull-request-github",
-    "golang.go",
-    "ionutvmi.path-autocomplete",
-    "johnsoncodehk.vscode-tsconfig-helper",
-    "k--kato.intellij-idea-keybindings",
-    "laravel.vscode-laravel",
-    "ms-ceintl.vscode-language-pack-ja",
-    "ms-vsliveshare.vsliveshare",
+
+    // Themes & Icons
+    "antfu.icons-carbon",
+    "antfu.theme-vitesse",
+    "catppuccin.catppuccin-vsc-icons",
+    "file-icons.file-icons",
+
+    // Linting & Spell Check
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+
+    // Languages & Frameworks
+    "vue.volar",
+    "rust-lang.rust-analyzer",
+    "antfu.unocss",
+
+    // Editor Enhancement
+    "christian-kohler.path-intellisense",
     "naumovs.color-highlight",
     "oderwat.indent-rainbow",
-    "streetsidesoftware.code-spell-checker",
     "usernamehw.errorlens",
-    "vitest.explorer",
-    "vue.volar",
-    "xabikos.javascriptsnippets",
-    "yoavbls.pretty-ts-errors"
+    "yoavbls.pretty-ts-errors",
+    "antfu.where-am-i",
+
+    // AI
+    "github.copilot",
+    "github.copilot-chat",
+
+    // i18n
+    "lokalise.i18n-ally",
+    "ms-ceintl.vscode-language-pack-ja",
+
+    // Productivity
+    "antfu.slidev",
+    "leetcode.vscode-leetcode",
+
+    // Keybindings
+    "k--kato.intellij-idea-keybindings"
   ]
 }
