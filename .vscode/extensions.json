@@ -19,6 +19,7 @@
     "vue.volar",
     "rust-lang.rust-analyzer",
     "antfu.unocss",
+    "oxc.oxc-vscode",
 
     // Editor Enhancement
     "christian-kohler.path-intellisense",
