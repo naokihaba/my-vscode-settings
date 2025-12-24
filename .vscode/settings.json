@@ -164,6 +164,11 @@
     "markdown": true,
     "plaintext": false,
   },
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "text": "コミットメッセージは、最初にConventional Commitsに則って記述してください"
+    }
+  ],
   "cSpell.allowCompoundWords": true,
   "cSpell.language": "en,en-US",
   "css.lint.hexColorLength": "ignore",
@@ -309,5 +314,5 @@
   "leetcode.workspaceFolder": "/Users/naokihaba/.leetcode",
   "leetcode.defaultLanguage": "typescript",
   "window.zoomPerWindow": false,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0.5,
 }
